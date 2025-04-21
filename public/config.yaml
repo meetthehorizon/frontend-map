@@ -1,0 +1,9 @@
+# config.yaml
+api:
+  baseUrl: "http://127.0.0.1:5000"
+  endpoints:
+    query: "/api/query"
+
+# Theme settings
+theme:
+  defaultMode: "light"  # can be "light" or "dark"
